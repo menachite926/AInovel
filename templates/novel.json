@@ -1,0 +1,13 @@
+{
+  "id": "作品ID（英数字ケバブケース）",
+  "title": "作品タイトル",
+  "author": "作者名",
+  "base_work": "ベースにしたヒット作（任意）",
+  "url": "",
+  "protagonist_name": "主人公名",
+  "genre": ["ジャンルタグを配列で", "例: isekai", "tsuihou", "zamaa"],
+  "episode_length_target": 4000,
+  "recent_chapters_for_context": 5,
+  "pov": "視点（例: 一人称（主人公）／三人称。視点切替の有無も）",
+  "tone": "全体のトーン（例: テンポ重視・ざまぁ爽快系。話末クリフハンガー必須）"
+}
